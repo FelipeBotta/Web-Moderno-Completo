@@ -11,5 +11,5 @@ let categoria = "Papelaria";
 console.log("Produto: " + nome 
     + " Categoria: " + categoria 
     + ", Preço: " + preco 
-    + ", Desconto: " + desconto 
+    + ", Desconto: " + desconto + "%" 
     + ", Preço Final: " + precoComDesconto);
