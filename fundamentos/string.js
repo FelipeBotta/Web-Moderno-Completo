@@ -16,3 +16,4 @@ console.log("Escola ".concat(escola).concat(" !")); // concat serve para concate
 
 console.log(escola.replace(3, "e")); // replace utilizado para substituir o caractere sendo o primeiro parametro o escolhido para ser substituido pelo segundo
 
+console.log("Ana,Maria,Pedro".split(","));  // utilizando o split e colocando qual elemento separa as "strings" que irão pro array
