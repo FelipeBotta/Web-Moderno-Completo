@@ -10,4 +10,4 @@ let estaChovendo = true; // ou false
 
 console.log(typeof estaChovendo)
 
-
+console.log(typeof "Teste");
