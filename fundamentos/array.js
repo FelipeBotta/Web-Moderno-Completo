@@ -13,4 +13,4 @@ console.log(valores.pop()); // pop é utilizado para deletar um valor do array
 delete valores [0]; // delete também é uma forma de deletar valor do array
 console.log(valores);
 
-console.log(typeof valores); // array é considerado um objeto
+console.log(typeof valores); // array é considerado um  
