@@ -19,3 +19,7 @@ console.log(soma(1,6));
 const subtracao = (a,b) => a - b;
 
 console.log(subtracao(1,3))
+
+const imprimir2 = a => console.log(a);
+
+imprimir2("Arrow Function é show !")
