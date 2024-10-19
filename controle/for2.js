@@ -1,6 +1,6 @@
 const notas = [6.7, 7.5, 6.6, 5.5, 4.4, 3.6];
 
-for (i in notas) {
+for (let i in notas) {
   console.log(i, notas[i]);
 }
 
@@ -11,6 +11,6 @@ const pessoa = {
   peso: 64,
 };
 
-for (atributo in pessoa) {
+for (let atributo in pessoa) {
   console.log(`${atributo} = ${pessoa[atributo]}`);
 }
