@@ -10,4 +10,5 @@ console.log(soma())
 console.log(soma(1))
 console.log(soma(1.1,2.2,3.3))
 console.log(soma(40,30,55,72))
-console.log(soma(" ","R","U","A"))
+
+console.log(soma("R","U","A"))
