@@ -15,7 +15,3 @@ const sub = function(x,y){
 const mult = function mult(x,y){
   return x * y
 }
-
-divisor = y =>  2 * y 
-
-console.log(divisor(2))
