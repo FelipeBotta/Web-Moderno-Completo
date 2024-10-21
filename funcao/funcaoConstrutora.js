@@ -25,11 +25,11 @@ function Carro(velocidadeMaxima = 200, delta = 5){
   }
 }
 
-const uno = new Carro
+const uno = new Carro // Instanciado sem parenteses pois utilizou os valores padrão
 uno.acelerar()
 console.log(uno.getVelocidadeAtual())
 
-const ferrari = new Carro(350,50)
+const ferrari = new Carro(350,50) // Instanciado com novos valores diferentes do padrão
 ferrari.acelerar()
 ferrari.acelerar()
 ferrari.acelerar()

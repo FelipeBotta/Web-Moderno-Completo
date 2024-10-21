@@ -1,5 +1,6 @@
 console.log(soma(3,4)) // Function declaration consegue ser lido antes mesmo de chegar na linha onde ele foi declarado, outras declarações não irá reconhecer antes de ser declarado
 
+
 // Function declaration
 function soma(x,y){
   return x + y
@@ -15,5 +16,6 @@ const mult = function mult(x,y){
   return x * y
 }
 
-// 
+divisor = y =>  2 * y 
 
+console.log(divisor(2))
