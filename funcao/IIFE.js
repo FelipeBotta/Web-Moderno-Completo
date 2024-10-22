@@ -1,4 +1,5 @@
 // IIFE = Immediately Invoked Function Expression
+// Utilizado para fugir do escopo global
 
 (function () {
   console.log("Será executado na hora!")
