@@ -1,4 +1,4 @@
-// Parametros para o ForEach Nome, Indice e Array (todos opcionais)
+// Parametros para o ForEach Nome, Indice e Array (todos opcionais) *sempre feito nesta sequencia
 const aprovados = ['Agata','Aldo','Daniel','Raquel']
 
 aprovados.forEach(function(nome, indice) {
