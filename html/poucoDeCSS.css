@@ -1,0 +1,11 @@
+.negrito {
+  font-weight: bold;
+}
+
+#textoPrincipal {
+  font-size: 40px;
+  font-weight: bold;
+  background-color: grey;
+  color: white;
+  padding: 10px;
+}
